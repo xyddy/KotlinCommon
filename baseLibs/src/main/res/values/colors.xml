@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="trans">#00000000</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="black_4c_00">#4c000000</color>
+    <color name="black_33_00">#33000000</color>
+    <color name="black_9">#999999</color>
+    <color name="black_6">#666666</color>
+    <color name="black_14">#141414</color>
+    <color name="black_d8">#D8D8D8</color>
+    <color name="black_73">#737373</color>
+    <color name="black_f5">#F5F5F5</color>
+    <color name="black_e5">#E5E5E5</color>
+    <color name="black_b5">#B5B5B5</color>
+    <color name="black_a80">#cc000000</color>
+    <color name="black_7f_14">#7f141414</color>
+    <color name="black_4c_14">#4c141414</color>
+    <color name="black_efe">#EFEEF1</color>
+    <color name="black_80">#808080</color>
+    <color name="black_46">#464646</color>
+    <color name="black_27">#272727</color>
+    <color name="black_4a">#4A4A4A</color>
+    <color name="black_9a">#9A9A9A</color>
+    <color name="black_4d4">#4D4B5E</color>
+    <color name="black_827">#827F9A</color>
+    <color name="black_c3b">#C3BDCD</color>
+    <color name="yellow_f4b">#F4BF5E</color>
+    <color name="yellow_776">#776D63</color>
+    <color name="yellow_b89">#B89173</color>
+    <color name="yellow_bca">#BCAE8A</color>
+    <color name="red_fe4">#FE4F71</color>
+    <color name="red_ff3">#FF3A2A</color>
+    <color name="blue_37a">#37A0FF</color>
+    <color name="black_252_90">#e6252430</color>
+    <color name="black_252">#252430</color>
+</resources>

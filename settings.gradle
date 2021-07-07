@@ -1,0 +1,2 @@
+include ':baseLibs'
+rootProject.name = "KotlinCommon"
